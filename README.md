@@ -1,5 +1,4 @@
 # ADO-.Net
-ADO .NET Crud Operations
 
 The functionality consists of:
 
