@@ -1,6 +1,8 @@
 # ADO-.Net
 ADO .NET Crud Operations
+
 The functionality consists of:
+
 • Add/Remove/Edit employee
 • SEARCH (SEARCHWORD: STRING): ARRAY (OF EMPLOYEE) 
 This function will perform the Search using the SearchWord to locate the matched employee. 
